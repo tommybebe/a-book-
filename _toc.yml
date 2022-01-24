@@ -9,3 +9,4 @@ parts:
   - file: markdown
   - file: notebooks
   - file: parts/new-markdown
+  - file: parts/about-me
