@@ -10,3 +10,4 @@ parts:
   - file: notebooks
   - file: parts/new-markdown
   - file: parts/about-me
+  - file: parts/12_Doubly_Robust_Estimation
